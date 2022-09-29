@@ -3,7 +3,7 @@ name: Create new pull request
 on:
   workflow_dispatch:
   issues:
-    types: [ opened, edited ]
+    types: [ opened, edited, labeled ]
 
 jobs:
   build:
@@ -29,6 +29,15 @@ jobs:
             const issue_number = context.issue.number
             const repo = context.repo.owner+"/"+context.repo.repo
             return issue_number
+
+      - name: Return label
+        id: gh-script-label
+        uses: actions/github-script@v6.1.1
+        with:
+          # github-token: ${{ secrets.GH_TOKEN }}
+          script: |
+            const issue_label = "auto-pr"
+            return issue_label
       
       - name: Return repository name
         id: gh-script-repo
@@ -68,7 +77,8 @@ jobs:
           echo ${{ secrets.GH_TOKEN }} >> /home/runner/work/go-ontology/go-ontology/.venv/lib/python3.9/site-packages/onto_crawler/token.txt
           poetry run ocrawl process-issue ${{ steps.vars.outputs.resource }} \
           -r ${{ steps.gh-script-repo.outputs.result }} \
-          -n ${{ steps.gh-script-issue.outputs.result }} 
+          -n ${{ steps.gh-script-issue.outputs.result }} \
+          -l ${{ steps.gh-script-label.outputs.result }}
 
       
 
