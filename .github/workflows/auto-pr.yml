@@ -51,7 +51,7 @@ jobs:
       - name: Set branch name
         id: vars
         run: |
-          echo ::set-output name=branch-name::"ocrawl_automation"
+          echo ::set-output name=branch-name::"ocrawl_automation"+${{ steps.gh-script-issue.outputs.result }}
           echo ::set-output name=resource::"src/ontology/go-edit.obo"
       # old resource = "tests/resources/fbbt.obo"
       #----------------------------------------------
