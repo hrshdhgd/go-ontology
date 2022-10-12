@@ -68,8 +68,7 @@ jobs:
           echo ${{ secrets.GH_TOKEN }} >> /home/runner/work/go-ontology/go-ontology/.venv/lib/python3.9/site-packages/ontobot_change_agent/token.txt
           poetry run ochange process-issue ${{ steps.vars.outputs.resource }} \
           -r ${{ steps.gh-script-repo.outputs.result }} \
-          -n ${{ steps.gh-script-issue.outputs.result }} \
-          -l ${{ steps.gh-script-label.outputs.result }}
+          -n ${{ steps.gh-script-issue.outputs.result }}
 
       
 
