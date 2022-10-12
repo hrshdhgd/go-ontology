@@ -6,8 +6,8 @@ authors = ["Harshad Hegde <hegdehb@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.9"
-onto-crawler = "^0.1.1"
+python = ">=3.9,<3.12"
+ontobot-change-agent = "^0.2.2"
 
 [tool.poetry.dev-dependencies]
 
