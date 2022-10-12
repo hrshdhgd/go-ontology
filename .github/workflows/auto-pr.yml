@@ -3,7 +3,7 @@ name: Create new pull request
 on:
   workflow_dispatch:
   issues:
-    types: [ opened, edited, labeled ]
+    types: [ opened, edited ]
 
 jobs:
   build:
@@ -29,15 +29,6 @@ jobs:
             const issue_number = context.issue.number
             const repo = context.repo.owner+"/"+context.repo.repo
             return issue_number
-
-      - name: Return label
-        id: gh-script-label
-        uses: actions/github-script@v6.1.1
-        with:
-          # github-token: ${{ secrets.GH_TOKEN }}
-          script: |
-            const issue_label = "auto-pr"
-            return issue_label
       
       - name: Return repository name
         id: gh-script-repo
@@ -51,7 +42,7 @@ jobs:
       - name: Set branch name
         id: vars
         run: |
-          echo ::set-output name=branch-name::"ocrawl_automation"_${{ steps.gh-script-issue.outputs.result }}
+          echo ::set-output name=branch-name::"ochange_automation"_${{ steps.gh-script-issue.outputs.result }}
           echo ::set-output name=resource::"src/ontology/go-edit.obo"
       # old resource = "tests/resources/fbbt.obo"
       #----------------------------------------------
@@ -71,11 +62,11 @@ jobs:
           poetry install --no-interaction --no-root
           poetry run pip install kgcl-schema
 
-      - name: Run ocrawl
-        id: ocrawl
+      - name: Run ochange
+        id: ochange
         run: |
-          echo ${{ secrets.GH_TOKEN }} >> /home/runner/work/go-ontology/go-ontology/.venv/lib/python3.9/site-packages/onto_crawler/token.txt
-          poetry run ocrawl process-issue ${{ steps.vars.outputs.resource }} \
+          echo ${{ secrets.GH_TOKEN }} >> /home/runner/work/go-ontology/go-ontology/.venv/lib/python3.9/site-packages/ontobot_change_agent/token.txt
+          poetry run ochange process-issue ${{ steps.vars.outputs.resource }} \
           -r ${{ steps.gh-script-repo.outputs.result }} \
           -n ${{ steps.gh-script-issue.outputs.result }} \
           -l ${{ steps.gh-script-label.outputs.result }}
@@ -83,11 +74,11 @@ jobs:
       
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v3
+        uses: peter-evans/create-pull-request@v4.1.3
         with:
           branch-suffix: short-commit-hash
           labels: Automated
-          body: ${{ steps.ocrawl.outputs.PR_BODY }}
-          title: ${{ steps.ocrawl.outputs.PR_TITLE }}
+          body: ${{ steps.ochange.outputs.PR_BODY }}
+          title: ${{ steps.ochange.outputs.PR_TITLE }}
           base: ${{ github.head_ref }}
           branch: ${{ steps.vars.outputs.branch-name }}
