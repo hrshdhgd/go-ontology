@@ -70,8 +70,6 @@ jobs:
           -r ${{ steps.gh-script-repo.outputs.result }} \
           -n ${{ steps.gh-script-issue.outputs.result }}
 
-      
-
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4.1.3
         with:
