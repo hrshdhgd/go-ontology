@@ -831,7 +831,7 @@ tests = ["coverage", "pytest"]
 
 [[package]]
 name = "ontobot-change-agent"
-version = "0.2.2"
+version = "0.2.3"
 description = "Update ontologies using change language."
 category = "main"
 optional = false
@@ -1768,7 +1768,7 @@ testing = ["flake8 (<5)", "func-timeout", "jaraco.functools", "jaraco.itertools"
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.9,<3.12"
-content-hash = "c579717d438b3c64099351cf40d626a892ff4fa13b354ab3fb8c5575beda7aeb"
+content-hash = "6b9fdd675cdf897aa7741eb76caf71c0bceb726f2ebcd218239c687176a66298"
 
 [metadata.files]
 aiohttp = [
@@ -2428,8 +2428,8 @@ ols-client = [
     {file = "ols_client-0.1.2.tar.gz", hash = "sha256:f495a608ca81475a3ba17d67d768f5e64973d5d415588b683be2067cc28ab2b9"},
 ]
 ontobot-change-agent = [
-    {file = "ontobot_change_agent-0.2.2-py3-none-any.whl", hash = "sha256:2b8d6cb2920b3b301f00314dffa34a5b41a11294ee28831792ebc64f4f436608"},
-    {file = "ontobot_change_agent-0.2.2.tar.gz", hash = "sha256:4fb20a959f8f95831dedc930197e4c07e6ca31436cce04a6e1907cd604c85311"},
+    {file = "ontobot_change_agent-0.2.3-py3-none-any.whl", hash = "sha256:cbf58c146d2c252d2a6df580857c12f2bedeb0f68939b836d005ce22273f8ba8"},
+    {file = "ontobot_change_agent-0.2.3.tar.gz", hash = "sha256:50223c9e3cf69ed4c200c011b8b0bb77b45e5e9c2ef03d7a9c68bba22ebf055f"},
 ]
 ontoportal-client = [
     {file = "ontoportal_client-0.0.3-py3-none-any.whl", hash = "sha256:c81288f9fdb81ec5bfcdf017d6efd08b0a09a84fd61c9cdebd14ce5adde45307"},
