@@ -96,7 +96,7 @@ python-versions = "*"
 
 [[package]]
 name = "bioregistry"
-version = "0.5.126"
+version = "0.5.127"
 description = "Integrated registry of biological databases and nomenclatures"
 category = "main"
 optional = false
@@ -831,7 +831,7 @@ tests = ["coverage", "pytest"]
 
 [[package]]
 name = "ontobot-change-agent"
-version = "0.2.3"
+version = "0.2.5"
 description = "Update ontologies using change language."
 category = "main"
 optional = false
@@ -1021,7 +1021,7 @@ email = ["email-validator (>=1.0.3)"]
 
 [[package]]
 name = "pygithub"
-version = "1.55"
+version = "1.56"
 description = "Use the full Github API v3"
 category = "main"
 optional = false
@@ -1768,7 +1768,7 @@ testing = ["flake8 (<5)", "func-timeout", "jaraco.functools", "jaraco.itertools"
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.9,<3.12"
-content-hash = "6b9fdd675cdf897aa7741eb76caf71c0bceb726f2ebcd218239c687176a66298"
+content-hash = "be31da3db3fb758b477c8acc93911341d4a5287ad2fe59daf790a73ba7797c0f"
 
 [metadata.files]
 aiohttp = [
@@ -1892,8 +1892,8 @@ bcp47 = [
     {file = "bcp47-0.0.4.tar.gz", hash = "sha256:4878d2f3e697ef39ef3891a147280705e4377d5a8d7eb0702129b8d4a3718702"},
 ]
 bioregistry = [
-    {file = "bioregistry-0.5.126-py3-none-any.whl", hash = "sha256:a628a5a7ed83e809a8971bb37dba0e082d465783ef36836d6cf63083fbfb2b7d"},
-    {file = "bioregistry-0.5.126.tar.gz", hash = "sha256:42ec49695bf2e95db00326b9120c430e80964ed4234e57014ad6a780b44360e3"},
+    {file = "bioregistry-0.5.127-py3-none-any.whl", hash = "sha256:276a8d37c02c2e826f327538f1e97afad2d9458b3b1e5f6ba3dd67a2e6c90cf0"},
+    {file = "bioregistry-0.5.127.tar.gz", hash = "sha256:7011a6ea423d951d9c35620bfb8650e52cde1e8e5c80fe6a9bc7ece8da45f7e5"},
 ]
 certifi = [
     {file = "certifi-2022.9.24-py3-none-any.whl", hash = "sha256:90c1a32f1d68f940488354e36370f6cca89f0f106db09518524c88d6ed83f382"},
@@ -2428,8 +2428,8 @@ ols-client = [
     {file = "ols_client-0.1.2.tar.gz", hash = "sha256:f495a608ca81475a3ba17d67d768f5e64973d5d415588b683be2067cc28ab2b9"},
 ]
 ontobot-change-agent = [
-    {file = "ontobot_change_agent-0.2.3-py3-none-any.whl", hash = "sha256:cbf58c146d2c252d2a6df580857c12f2bedeb0f68939b836d005ce22273f8ba8"},
-    {file = "ontobot_change_agent-0.2.3.tar.gz", hash = "sha256:50223c9e3cf69ed4c200c011b8b0bb77b45e5e9c2ef03d7a9c68bba22ebf055f"},
+    {file = "ontobot_change_agent-0.2.5-py3-none-any.whl", hash = "sha256:27d3f091c189dc185ae9f37bae7213afef8acc8b9e115399e514870066d30f92"},
+    {file = "ontobot_change_agent-0.2.5.tar.gz", hash = "sha256:47abc96474581e08e69312042ec49ff1184867e2b1e2baa5ec6ba840cdf79dce"},
 ]
 ontoportal-client = [
     {file = "ontoportal_client-0.0.3-py3-none-any.whl", hash = "sha256:c81288f9fdb81ec5bfcdf017d6efd08b0a09a84fd61c9cdebd14ce5adde45307"},
@@ -2549,8 +2549,8 @@ pydantic = [
     {file = "pydantic-1.10.2.tar.gz", hash = "sha256:91b8e218852ef6007c2b98cd861601c6a09f1aa32bbbb74fab5b1c33d4a1e410"},
 ]
 pygithub = [
-    {file = "PyGithub-1.55-py3-none-any.whl", hash = "sha256:2caf0054ea079b71e539741ae56c5a95e073b81fa472ce222e81667381b9601b"},
-    {file = "PyGithub-1.55.tar.gz", hash = "sha256:1bbfff9372047ff3f21d5cd8e07720f3dbfdaf6462fcaed9d815f528f1ba7283"},
+    {file = "PyGithub-1.56-py3-none-any.whl", hash = "sha256:d15f13d82165306da8a68aefc0f848a6f6432d5febbff13b60a94758ce3ef8b5"},
+    {file = "PyGithub-1.56.tar.gz", hash = "sha256:80c6d85cf0f9418ffeb840fd105840af694c4f17e102970badbaf678251f2a01"},
 ]
 pygments = [
     {file = "Pygments-2.13.0-py3-none-any.whl", hash = "sha256:f643f331ab57ba3c9d89212ee4a2dabc6e94f117cf4eefde99a0574720d14c42"},

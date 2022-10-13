@@ -75,7 +75,7 @@ jobs:
         with:
           branch-suffix: short-commit-hash
           labels: Automated
-          body: ${{ env.PR_BODY }}
-          title: ${{ env.PR_TITLE }}
+          body: ${{ steps.ochange.outputs.PR_BODY }}
+          title: ${{ steps.ochange.outputs.PR_TITLE }}
           base: ${{ github.head_ref }}
           branch: ${{ env.branch-name }}
