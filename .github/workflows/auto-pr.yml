@@ -42,8 +42,8 @@ jobs:
       - name: Set branch name
         id: vars
         run: |
-          echo ::set-output name=branch-name::"ochange_automation"_${{ steps.gh-script-issue.outputs.result }}
-          echo ::set-output name=resource::"src/ontology/go-edit.obo"
+          echo "branch-name=ochange_automation_"${{ steps.gh-script-issue.outputs.result }} >> $GITHUB_ENV
+          echo "resource=src/ontology/go-edit.obo" >> $GITHUB_ENV
       # old resource = "tests/resources/fbbt.obo"
       #----------------------------------------------
       #          install & configure poetry
@@ -66,7 +66,7 @@ jobs:
         id: ochange
         run: |
           echo ${{ secrets.GH_TOKEN }} >> /home/runner/work/go-ontology/go-ontology/.venv/lib/python3.9/site-packages/ontobot_change_agent/token.txt
-          poetry run ochange process-issue ${{ steps.vars.outputs.resource }} \
+          poetry run ochange process-issue ${{ env.resource }} \
           -r ${{ steps.gh-script-repo.outputs.result }} \
           -n ${{ steps.gh-script-issue.outputs.result }}
 
@@ -78,4 +78,4 @@ jobs:
           body: ${{ steps.ochange.outputs.PR_BODY }}
           title: ${{ steps.ochange.outputs.PR_TITLE }}
           base: ${{ github.head_ref }}
-          branch: ${{ steps.vars.outputs.branch-name }}
+          branch: ${{ env.branch-name }}
