@@ -7,7 +7,7 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = ">=3.9,<3.12"
-ontobot-change-agent = "^0.2.5"
+ontobot-change-agent = "^0.3.0"
 
 [tool.poetry.dev-dependencies]
 
