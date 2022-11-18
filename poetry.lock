@@ -279,11 +279,11 @@ python-versions = "*"
 
 [[package]]
 name = "docutils"
-version = "0.19"
+version = "0.17.1"
 description = "Docutils -- Python Documentation Utilities"
 category = "main"
 optional = false
-python-versions = ">=3.7"
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*"
 
 [[package]]
 name = "et-xmlfile"
@@ -627,7 +627,7 @@ regex = ["regex"]
 
 [[package]]
 name = "linkml"
-version = "1.3.13"
+version = "1.3.14"
 description = "Linked Open Data Modeling Language"
 category = "main"
 optional = false
@@ -893,7 +893,7 @@ tests = ["coverage", "pytest"]
 
 [[package]]
 name = "ontobot-change-agent"
-version = "0.2.8"
+version = "0.2.9"
 description = "Update ontologies using change language."
 category = "main"
 optional = false
@@ -1563,17 +1563,18 @@ sphinx = ">=2.0"
 
 [[package]]
 name = "sphinx-rtd-theme"
-version = "0.5.1"
+version = "1.1.1"
 description = "Read the Docs theme for Sphinx"
 category = "main"
 optional = false
-python-versions = "*"
+python-versions = "!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7"
 
 [package.dependencies]
-sphinx = "*"
+docutils = "<0.18"
+sphinx = ">=1.6,<6"
 
 [package.extras]
-dev = ["bump2version", "sphinxcontrib-httpdomain", "transifex-client"]
+dev = ["bump2version", "sphinxcontrib-httpdomain", "transifex-client", "wheel"]
 
 [[package]]
 name = "sphinxcontrib-applehelp"
@@ -2153,8 +2154,8 @@ distlib = [
     {file = "distlib-0.3.6.tar.gz", hash = "sha256:14bad2d9b04d3a36127ac97f30b12a19268f211063d8f8ee4f47108896e11b46"},
 ]
 docutils = [
-    {file = "docutils-0.19-py3-none-any.whl", hash = "sha256:5e1de4d849fee02c63b040a4a3fd567f4ab104defd8a5511fbbc24a8a017efbc"},
-    {file = "docutils-0.19.tar.gz", hash = "sha256:33995a6753c30b7f577febfc2c50411fec6aac7f7ffeb7c4cfe5991072dcf9e6"},
+    {file = "docutils-0.17.1-py2.py3-none-any.whl", hash = "sha256:cf316c8370a737a022b72b56874f6602acf974a37a9fba42ec2876387549fc61"},
+    {file = "docutils-0.17.1.tar.gz", hash = "sha256:686577d2e4c32380bb50cbb22f575ed742d58168cee37e99117a854bcd88f125"},
 ]
 et-xmlfile = [
     {file = "et_xmlfile-1.1.0-py3-none-any.whl", hash = "sha256:a2ba85d1d6a74ef63837eed693bcb89c3f752169b0e3e7ae5b16ca5e1b3deada"},
@@ -2416,8 +2417,8 @@ lark = [
     {file = "lark-1.1.4.tar.gz", hash = "sha256:eee86062b149600ef62de0d8dfd38cf85ffc737e16911e7d8c18880f8c5b1333"},
 ]
 linkml = [
-    {file = "linkml-1.3.13-py3-none-any.whl", hash = "sha256:c18857fef67626c97205c0c0304f12d4425f20a21201092567eab5423a1849bf"},
-    {file = "linkml-1.3.13.tar.gz", hash = "sha256:c9c9b05b163717ca77bf53cbf9e663f6eb14c1bf02b44310e45bf276f8aea2e3"},
+    {file = "linkml-1.3.14-py3-none-any.whl", hash = "sha256:5d0fa2499182927f89ae288d0c74d918473c457a2b65aade5ac709ede8e9f7e9"},
+    {file = "linkml-1.3.14.tar.gz", hash = "sha256:709ab1539483212f947e8da655193733bb316d8aefddc22a19c71863e4bd7322"},
 ]
 linkml-dataops = [
     {file = "linkml_dataops-0.1.0-py3-none-any.whl", hash = "sha256:193cf7f659e5f07946d2c2761896910d5f7151d91282543b1363801f68307f4c"},
@@ -2597,8 +2598,8 @@ ols-client = [
     {file = "ols_client-0.1.2.tar.gz", hash = "sha256:f495a608ca81475a3ba17d67d768f5e64973d5d415588b683be2067cc28ab2b9"},
 ]
 ontobot-change-agent = [
-    {file = "ontobot_change_agent-0.2.8-py3-none-any.whl", hash = "sha256:7f8e611ab9ee656f01c8880f5936a77082674efac349f49845cd7b8549ba8abe"},
-    {file = "ontobot_change_agent-0.2.8.tar.gz", hash = "sha256:e7e59b634d5bbd0d4106821a77b8f2c9996c0596def48901fbd87e8db80edec8"},
+    {file = "ontobot_change_agent-0.2.9-py3-none-any.whl", hash = "sha256:d06e2dae594673facbd3ef6114218b239fd0c7d5b761356355702ecf4b31f2b7"},
+    {file = "ontobot_change_agent-0.2.9.tar.gz", hash = "sha256:9f428bc39ab783650f92db3141c9eb1a4604965cf5ff3b64b7678c096ff4d61a"},
 ]
 ontoportal-client = [
     {file = "ontoportal_client-0.0.3-py3-none-any.whl", hash = "sha256:c81288f9fdb81ec5bfcdf017d6efd08b0a09a84fd61c9cdebd14ce5adde45307"},
@@ -2975,8 +2976,8 @@ sphinx-click = [
     {file = "sphinx_click-4.3.0-py3-none-any.whl", hash = "sha256:23e85a3cb0b728a421ea773699f6acadefae171d1a764a51dd8ec5981503ccbe"},
 ]
 sphinx-rtd-theme = [
-    {file = "sphinx_rtd_theme-0.5.1-py2.py3-none-any.whl", hash = "sha256:fa6bebd5ab9a73da8e102509a86f3fcc36dec04a0b52ea80e5a033b2aba00113"},
-    {file = "sphinx_rtd_theme-0.5.1.tar.gz", hash = "sha256:eda689eda0c7301a80cf122dad28b1861e5605cbf455558f3775e1e8200e83a5"},
+    {file = "sphinx_rtd_theme-1.1.1-py2.py3-none-any.whl", hash = "sha256:31faa07d3e97c8955637fc3f1423a5ab2c44b74b8cc558a51498c202ce5cbda7"},
+    {file = "sphinx_rtd_theme-1.1.1.tar.gz", hash = "sha256:6146c845f1e1947b3c3dd4432c28998a1693ccc742b4f9ad7c63129f0757c103"},
 ]
 sphinxcontrib-applehelp = [
     {file = "sphinxcontrib-applehelp-1.0.2.tar.gz", hash = "sha256:a072735ec80e7675e3f432fcae8610ecf509c5f1869d17e2eecff44389cdbc58"},
