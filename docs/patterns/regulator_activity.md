@@ -29,7 +29,7 @@ This pattern is for representing a function that modulates some molecular functi
 
 ## Equivalent to
 
-[molecular function regulator activity](http://purl.obolibrary.org/obo/GO_0098772)  and ([regulates](http://purl.obolibrary.org/obo/RO_0002211) some `{regulated_activity}`)
+[molecular function regulator activity](http://purl.obolibrary.org/obo/GO_0098772)  and ([directly regulates](http://purl.obolibrary.org/obo/RO_0002578) some `{regulated_activity}`)
 
 
 

@@ -1,4 +1,5 @@
 defined_class	defined_class_label	regulated_activity	regulated_activity_label
+http://purl.obolibrary.org/obo/GO_0098744	1-phosphatidylinositol 4-kinase activator activity	http://purl.obolibrary.org/obo/GO_0004430	1-phosphatidylinositol 4-kinase activity
 http://purl.obolibrary.org/obo/GO_0030337	DNA polymerase processivity factor activity	http://purl.obolibrary.org/obo/GO_0034061	DNA polymerase activity
 http://purl.obolibrary.org/obo/GO_0140619	DNA strand exchange activator activity	http://purl.obolibrary.org/obo/GO_0000150	DNA strand exchange activity
 http://purl.obolibrary.org/obo/GO_0072587	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activator activity	http://purl.obolibrary.org/obo/GO_0003918	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity
@@ -11,7 +12,7 @@ http://purl.obolibrary.org/obo/GO_0010853	cyclase activator activity	http://purl
 http://purl.obolibrary.org/obo/GO_0061575	cyclin-dependent protein serine/threonine kinase activator activity	http://purl.obolibrary.org/obo/GO_0004693	cyclin-dependent protein serine/threonine kinase activity
 http://purl.obolibrary.org/obo/GO_0140608	cysteine-type endopeptidase activator activity	http://purl.obolibrary.org/obo/GO_0004197	cysteine-type endopeptidase activity
 http://purl.obolibrary.org/obo/GO_0035800	deubiquitinase activator activity	http://purl.obolibrary.org/obo/GO_0101005	deubiquitinase activity
-http://purl.obolibrary.org/obo/GO_0140656	endodeoxyribonuclease activator activity	http://purl.obolibrary.org/obo/GO_0004520	endodeoxyribonuclease activity
+http://purl.obolibrary.org/obo/GO_0140656	endodeoxyribonuclease activator activity	http://purl.obolibrary.org/obo/GO_0004520	DNA endonuclease activity
 http://purl.obolibrary.org/obo/GO_0061133	endopeptidase activator activity	http://purl.obolibrary.org/obo/GO_0004175	endopeptidase activity
 http://purl.obolibrary.org/obo/GO_0008047	enzyme activator activity	http://purl.obolibrary.org/obo/GO_0003824	catalytic activity
 http://purl.obolibrary.org/obo/GO_0042557	eukaryotic elongation factor-2 kinase activator activity	http://purl.obolibrary.org/obo/GO_0004686	elongation factor-2 kinase activity
@@ -35,6 +36,7 @@ http://purl.obolibrary.org/obo/GO_0043539	protein serine/threonine kinase activa
 http://purl.obolibrary.org/obo/GO_0030296	protein tyrosine kinase activator activity	http://purl.obolibrary.org/obo/GO_0004713	protein tyrosine kinase activity
 http://purl.obolibrary.org/obo/GO_0008160	protein tyrosine phosphatase activator activity	http://purl.obolibrary.org/obo/GO_0004725	protein tyrosine phosphatase activity
 http://purl.obolibrary.org/obo/GO_0046863	ribulose-1,5-bisphosphate carboxylase/oxygenase activator activity	http://purl.obolibrary.org/obo/GO_0016984	ribulose-bisphosphate carboxylase activity
+http://purl.obolibrary.org/obo/GO_1990600	single-stranded DNA endodeoxyribonuclease activator activity	http://purl.obolibrary.org/obo/GO_0000014	single-stranded DNA endodeoxyribonuclease activity
 http://purl.obolibrary.org/obo/GO_0016230	sphingomyelin phosphodiesterase activator activity	http://purl.obolibrary.org/obo/GO_0004767	sphingomyelin phosphodiesterase activity
 http://purl.obolibrary.org/obo/GO_0016176	superoxide-generating NADPH oxidase activator activity	http://purl.obolibrary.org/obo/GO_0106292	superoxide-generating NADPH oxidase activity
 http://purl.obolibrary.org/obo/GO_0140733	tRNA ligase activator activity	http://purl.obolibrary.org/obo/GO_0004812	aminoacyl-tRNA ligase activity
