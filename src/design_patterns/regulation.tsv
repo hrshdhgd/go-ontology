@@ -325,11 +325,8 @@ http://purl.obolibrary.org/obo/GO_0032956	regulation of actin cytoskeleton organ
 http://purl.obolibrary.org/obo/GO_2000249	regulation of actin cytoskeleton reorganization	http://purl.obolibrary.org/obo/GO_0031532	actin cytoskeleton reorganization
 http://purl.obolibrary.org/obo/GO_1904529	regulation of actin filament binding	http://purl.obolibrary.org/obo/GO_0051015	actin filament binding
 http://purl.obolibrary.org/obo/GO_0032231	regulation of actin filament bundle assembly	http://purl.obolibrary.org/obo/GO_0051017	actin filament bundle assembly
-http://purl.obolibrary.org/obo/GO_0120173	regulation of actin filament bundle convergence involved in mitotic contractile ring assembly	http://purl.obolibrary.org/obo/GO_1903478	actin filament bundle convergence involved in mitotic contractile ring assembly
 http://purl.obolibrary.org/obo/GO_0030834	regulation of actin filament depolymerization	http://purl.obolibrary.org/obo/GO_0030042	actin filament depolymerization
 http://purl.obolibrary.org/obo/GO_0110053	regulation of actin filament organization	http://purl.obolibrary.org/obo/GO_0007015	actin filament organization
-http://purl.obolibrary.org/obo/GO_1903117	regulation of actin filament organization involved in cytokinetic actomyosin contractile ring assembly	http://purl.obolibrary.org/obo/GO_2000689	actomyosin contractile ring assembly actin filament organization
-http://purl.obolibrary.org/obo/GO_1903480	regulation of actin filament organization involved in mitotic actomyosin contractile ring assembly	http://purl.obolibrary.org/obo/GO_1903479	mitotic actomyosin contractile ring assembly actin filament organization
 http://purl.obolibrary.org/obo/GO_0030833	regulation of actin filament polymerization	http://purl.obolibrary.org/obo/GO_0030041	actin filament polymerization
 http://purl.obolibrary.org/obo/GO_1903918	regulation of actin filament severing	http://purl.obolibrary.org/obo/GO_0051014	actin filament severing
 http://purl.obolibrary.org/obo/GO_1903115	regulation of actin filament-based movement	http://purl.obolibrary.org/obo/GO_0030048	actin filament-based movement
@@ -789,7 +786,7 @@ http://purl.obolibrary.org/obo/GO_2000960	regulation of cellooligosaccharide met
 http://purl.obolibrary.org/obo/GO_2000936	regulation of cellotriose catabolic process	http://purl.obolibrary.org/obo/GO_2000894	cellotriose catabolic process
 http://purl.obolibrary.org/obo/GO_2000933	regulation of cellotriose metabolic process	http://purl.obolibrary.org/obo/GO_2000893	cellotriose metabolic process
 http://purl.obolibrary.org/obo/GO_1900285	regulation of cellotriose transport	http://purl.obolibrary.org/obo/GO_2001096	cellotriose transport
-http://purl.obolibrary.org/obo/GO_1900419	regulation of cellular alcohol catabolic process	http://purl.obolibrary.org/obo/GO_0044109	cellular alcohol catabolic process
+http://purl.obolibrary.org/obo/GO_1900419	regulation of cellular alcohol catabolic process	http://purl.obolibrary.org/obo/GO_0046164	alcohol catabolic process
 http://purl.obolibrary.org/obo/GO_2000282	regulation of cellular amino acid biosynthetic process	http://purl.obolibrary.org/obo/GO_0008652	amino acid biosynthetic process
 http://purl.obolibrary.org/obo/GO_0006521	regulation of cellular amino acid metabolic process	http://purl.obolibrary.org/obo/GO_0006520	amino acid metabolic process
 http://purl.obolibrary.org/obo/GO_0031326	regulation of cellular biosynthetic process	http://purl.obolibrary.org/obo/GO_0044249	cellular biosynthetic process
@@ -917,7 +914,6 @@ http://purl.obolibrary.org/obo/GO_0045187	regulation of circadian sleep/wake cyc
 http://purl.obolibrary.org/obo/GO_0010840	regulation of circadian sleep/wake cycle, wakefulness	http://purl.obolibrary.org/obo/GO_0042746	circadian sleep/wake cycle, wakefulness
 http://purl.obolibrary.org/obo/GO_1903248	regulation of citrulline biosynthetic process	http://purl.obolibrary.org/obo/GO_0019240	citrulline biosynthetic process
 http://purl.obolibrary.org/obo/GO_1905443	regulation of clathrin coat assembly	http://purl.obolibrary.org/obo/GO_0048268	clathrin coat assembly
-http://purl.obolibrary.org/obo/GO_1905468	regulation of clathrin-coated pit assembly	http://purl.obolibrary.org/obo/GO_1905224	clathrin-coated pit assembly
 http://purl.obolibrary.org/obo/GO_2000369	regulation of clathrin-dependent endocytosis	http://purl.obolibrary.org/obo/GO_0072583	clathrin-dependent endocytosis
 http://purl.obolibrary.org/obo/GO_0070796	regulation of cleistothecium development	http://purl.obolibrary.org/obo/GO_0070791	cleistothecium development
 http://purl.obolibrary.org/obo/GO_0050818	regulation of coagulation	http://purl.obolibrary.org/obo/GO_0050817	coagulation
@@ -1005,7 +1001,7 @@ http://purl.obolibrary.org/obo/GO_1900015	regulation of cytokine production invo
 http://purl.obolibrary.org/obo/GO_0001959	regulation of cytokine-mediated signaling pathway	http://purl.obolibrary.org/obo/GO_0019221	cytokine-mediated signaling pathway
 http://purl.obolibrary.org/obo/GO_0032465	regulation of cytokinesis	http://purl.obolibrary.org/obo/GO_0000910	cytokinesis
 http://purl.obolibrary.org/obo/GO_2000431	regulation of cytokinesis, actomyosin contractile ring assembly	http://purl.obolibrary.org/obo/GO_0000915	actomyosin contractile ring assembly
-http://purl.obolibrary.org/obo/GO_2000073	regulation of cytokinesis, site selection	http://purl.obolibrary.org/obo/GO_0007105	cytokinesis, site selection
+http://purl.obolibrary.org/obo/GO_2000073	regulation of cytokinesis, site selection	http://purl.obolibrary.org/obo/GO_0007105	cytokinesis, division site positioning
 http://purl.obolibrary.org/obo/GO_0032954	regulation of cytokinetic process	http://purl.obolibrary.org/obo/GO_0032506	cytokinetic process
 http://purl.obolibrary.org/obo/GO_1903856	regulation of cytokinin dehydrogenase activity	http://purl.obolibrary.org/obo/GO_0019139	cytokinin dehydrogenase activity
 http://purl.obolibrary.org/obo/GO_0080036	regulation of cytokinin-activated signaling pathway	http://purl.obolibrary.org/obo/GO_0009736	cytokinin-activated signaling pathway
@@ -1058,7 +1054,7 @@ http://purl.obolibrary.org/obo/GO_0061001	regulation of dendritic spine morphoge
 http://purl.obolibrary.org/obo/GO_2000705	regulation of dense core granule biogenesis	http://purl.obolibrary.org/obo/GO_0061110	dense core granule biogenesis
 http://purl.obolibrary.org/obo/GO_1905413	regulation of dense core granule exocytosis	http://purl.obolibrary.org/obo/GO_1990504	dense core granule exocytosis
 http://purl.obolibrary.org/obo/GO_1904809	regulation of dense core granule transport	http://purl.obolibrary.org/obo/GO_1901950	dense core granule transport
-http://purl.obolibrary.org/obo/GO_0032070	regulation of deoxyribonuclease activity	http://purl.obolibrary.org/obo/GO_0004536	deoxyribonuclease activity
+http://purl.obolibrary.org/obo/GO_0032070	regulation of deoxyribonuclease activity	http://purl.obolibrary.org/obo/GO_0004536	DNA nuclease activity
 http://purl.obolibrary.org/obo/GO_0035303	regulation of dephosphorylation	http://purl.obolibrary.org/obo/GO_0016311	dephosphorylation
 http://purl.obolibrary.org/obo/GO_0061183	regulation of dermatome development	http://purl.obolibrary.org/obo/GO_0061054	dermatome development
 http://purl.obolibrary.org/obo/GO_2000970	regulation of detection of glucose	http://purl.obolibrary.org/obo/GO_0051594	detection of glucose
@@ -1105,6 +1101,7 @@ http://purl.obolibrary.org/obo/GO_0007555	regulation of ecdysteroid secretion	ht
 http://purl.obolibrary.org/obo/GO_0007563	regulation of eclosion	http://purl.obolibrary.org/obo/GO_0007562	eclosion
 http://purl.obolibrary.org/obo/GO_2000383	regulation of ectoderm development	http://purl.obolibrary.org/obo/GO_0007398	ectoderm development
 http://purl.obolibrary.org/obo/GO_0042665	regulation of ectodermal cell fate specification	http://purl.obolibrary.org/obo/GO_0001715	ectodermal cell fate specification
+http://purl.obolibrary.org/obo/GO_0046662	regulation of egg-laying behavior	http://purl.obolibrary.org/obo/GO_0018991	egg-laying behavior
 http://purl.obolibrary.org/obo/GO_0051543	regulation of elastin biosynthetic process	http://purl.obolibrary.org/obo/GO_0051542	elastin biosynthetic process
 http://purl.obolibrary.org/obo/GO_0060310	regulation of elastin catabolic process	http://purl.obolibrary.org/obo/GO_0060309	elastin catabolic process
 http://purl.obolibrary.org/obo/GO_1904732	regulation of electron transfer activity	http://purl.obolibrary.org/obo/GO_0009055	electron transfer activity
@@ -1244,7 +1241,7 @@ http://purl.obolibrary.org/obo/GO_0017157	regulation of exocytosis	http://purl.o
 http://purl.obolibrary.org/obo/GO_1902392	regulation of exodeoxyribonuclease activity	http://purl.obolibrary.org/obo/GO_0004529	DNA exonuclease activity
 http://purl.obolibrary.org/obo/GO_1905777	regulation of exonuclease activity	http://purl.obolibrary.org/obo/GO_0004527	exonuclease activity
 http://purl.obolibrary.org/obo/GO_0106163	regulation of exonucleolytic catabolism of deadenylated mRNA	http://purl.obolibrary.org/obo/GO_0043928	exonucleolytic catabolism of deadenylated mRNA
-http://purl.obolibrary.org/obo/GO_1901917	regulation of exoribonuclease activity	http://purl.obolibrary.org/obo/GO_0004532	exoribonuclease activity
+http://purl.obolibrary.org/obo/GO_1901917	regulation of exoribonuclease activity	http://purl.obolibrary.org/obo/GO_0004532	RNA exonuclease activity
 http://purl.obolibrary.org/obo/GO_1903541	regulation of exosomal secretion	http://purl.obolibrary.org/obo/GO_1990182	exosomal secretion
 http://purl.obolibrary.org/obo/GO_1903551	regulation of extracellular exosome assembly	http://purl.obolibrary.org/obo/GO_0071971	extracellular exosome assembly
 http://purl.obolibrary.org/obo/GO_1901201	regulation of extracellular matrix assembly	http://purl.obolibrary.org/obo/GO_0085029	extracellular matrix assembly
@@ -1509,24 +1506,17 @@ http://purl.obolibrary.org/obo/GO_0120213	regulation of histidine biosynthetic p
 http://purl.obolibrary.org/obo/GO_1901314	regulation of histone H2A K63-linked ubiquitination	http://purl.obolibrary.org/obo/GO_0070535	histone H2A K63-linked ubiquitination
 http://purl.obolibrary.org/obo/GO_2001173	regulation of histone H2B conserved C-terminal lysine ubiquitination	http://purl.obolibrary.org/obo/GO_0071894	histone H2B conserved C-terminal lysine ubiquitination
 http://purl.obolibrary.org/obo/GO_2001166	regulation of histone H2B ubiquitination	http://purl.obolibrary.org/obo/GO_0033523	histone H2B ubiquitination
-http://purl.obolibrary.org/obo/GO_0071440	regulation of histone H3-K14 acetylation	http://purl.obolibrary.org/obo/GO_0044154	histone H3-K14 acetylation
-http://purl.obolibrary.org/obo/GO_1901674	regulation of histone H3-K27 acetylation	http://purl.obolibrary.org/obo/GO_0043974	histone H3-K27 acetylation
 http://purl.obolibrary.org/obo/GO_0061085	regulation of histone H3-K27 methylation	http://purl.obolibrary.org/obo/GO_0070734	histone H3-K27 methylation
 http://purl.obolibrary.org/obo/GO_1902464	regulation of histone H3-K27 trimethylation	http://purl.obolibrary.org/obo/GO_0098532	histone H3-K27 trimethylation
-http://purl.obolibrary.org/obo/GO_0000414	regulation of histone H3-K36 methylation	http://purl.obolibrary.org/obo/GO_0010452	histone H3-K36 methylation
-http://purl.obolibrary.org/obo/GO_2001253	regulation of histone H3-K36 trimethylation	http://purl.obolibrary.org/obo/GO_0097198	histone H3-K36 trimethylation
 http://purl.obolibrary.org/obo/GO_0051569	regulation of histone H3-K4 methylation	http://purl.obolibrary.org/obo/GO_0051568	histone H3-K4 methylation
-http://purl.obolibrary.org/obo/GO_2001160	regulation of histone H3-K79 methylation	http://purl.obolibrary.org/obo/GO_0034729	histone H3-K79 methylation
 http://purl.obolibrary.org/obo/GO_2000615	regulation of histone H3-K9 acetylation	http://purl.obolibrary.org/obo/GO_0043970	histone H3-K9 acetylation
 http://purl.obolibrary.org/obo/GO_1900109	regulation of histone H3-K9 dimethylation	http://purl.obolibrary.org/obo/GO_0036123	histone H3-K9 dimethylation
 http://purl.obolibrary.org/obo/GO_0051570	regulation of histone H3-K9 methylation	http://purl.obolibrary.org/obo/GO_0051567	histone H3-K9 methylation
 http://purl.obolibrary.org/obo/GO_1900112	regulation of histone H3-K9 trimethylation	http://purl.obolibrary.org/obo/GO_0036124	histone H3-K9 trimethylation
 http://purl.obolibrary.org/obo/GO_0090239	regulation of histone H4 acetylation	http://purl.obolibrary.org/obo/GO_0043967	histone H4 acetylation
-http://purl.obolibrary.org/obo/GO_2000618	regulation of histone H4-K16 acetylation	http://purl.obolibrary.org/obo/GO_0043984	histone H4-K16 acetylation
 http://purl.obolibrary.org/obo/GO_0035065	regulation of histone acetylation	http://purl.obolibrary.org/obo/GO_0016573	histone acetylation
 http://purl.obolibrary.org/obo/GO_1901725	regulation of histone deacetylase activity	http://purl.obolibrary.org/obo/GO_0004407	histone deacetylase activity
 http://purl.obolibrary.org/obo/GO_0031063	regulation of histone deacetylation	http://purl.obolibrary.org/obo/GO_0016575	histone deacetylation
-http://purl.obolibrary.org/obo/GO_1904173	regulation of histone demethylase activity (H3-K4 specific)	http://purl.obolibrary.org/obo/GO_0032453	histone H3K4 demethylase activity
 http://purl.obolibrary.org/obo/GO_1903584	regulation of histone deubiquitination	http://purl.obolibrary.org/obo/GO_0016578	histone deubiquitination
 http://purl.obolibrary.org/obo/GO_0031060	regulation of histone methylation	http://purl.obolibrary.org/obo/GO_0016571	histone methylation
 http://purl.obolibrary.org/obo/GO_0031056	regulation of histone modification	http://purl.obolibrary.org/obo/GO_0016570	histone modification
@@ -1833,7 +1823,6 @@ http://purl.obolibrary.org/obo/GO_1902986	regulation of lysine biosynthetic proc
 http://purl.obolibrary.org/obo/GO_1905165	regulation of lysosomal protein catabolic process	http://purl.obolibrary.org/obo/GO_1905146	lysosomal protein catabolic process
 http://purl.obolibrary.org/obo/GO_1905671	regulation of lysosome organization	http://purl.obolibrary.org/obo/GO_0007040	lysosome organization
 http://purl.obolibrary.org/obo/GO_1903590	regulation of lysozyme activity	http://purl.obolibrary.org/obo/GO_0003796	lysozyme activity
-http://purl.obolibrary.org/obo/GO_1903398	regulation of m7G(5')pppN diphosphatase activity	http://purl.obolibrary.org/obo/GO_0050072	m7G(5')pppN diphosphatase activity
 http://purl.obolibrary.org/obo/GO_1903837	regulation of mRNA 3'-UTR binding	http://purl.obolibrary.org/obo/GO_0003730	mRNA 3'-UTR binding
 http://purl.obolibrary.org/obo/GO_0031440	regulation of mRNA 3'-end processing	http://purl.obolibrary.org/obo/GO_0031124	mRNA 3'-end processing
 http://purl.obolibrary.org/obo/GO_0140408	regulation of mRNA alternative polyadenylation	http://purl.obolibrary.org/obo/GO_0110104	mRNA alternative polyadenylation
@@ -2009,8 +1998,8 @@ http://purl.obolibrary.org/obo/GO_1902322	regulation of methyl-branched fatty ac
 http://purl.obolibrary.org/obo/GO_1903868	regulation of methylenetetrahydrofolate reductase (NAD(P)H) activity	http://purl.obolibrary.org/obo/GO_0004489	methylenetetrahydrofolate reductase (NAD(P)H) activity
 http://purl.obolibrary.org/obo/GO_0070802	regulation of metula development	http://purl.obolibrary.org/obo/GO_0070789	metula development
 http://purl.obolibrary.org/obo/GO_2000625	regulation of miRNA catabolic process	http://purl.obolibrary.org/obo/GO_0010587	miRNA catabolic process
-http://purl.obolibrary.org/obo/GO_1903798	regulation of miRNA maturation	http://purl.obolibrary.org/obo/GO_0035196	miRNA processing
 http://purl.obolibrary.org/obo/GO_2000628	regulation of miRNA metabolic process	http://purl.obolibrary.org/obo/GO_0010586	miRNA metabolic process
+http://purl.obolibrary.org/obo/GO_1903798	regulation of miRNA processing	http://purl.obolibrary.org/obo/GO_0035196	miRNA processing
 http://purl.obolibrary.org/obo/GO_1902893	regulation of miRNA transcription	http://purl.obolibrary.org/obo/GO_0061614	miRNA transcription
 http://purl.obolibrary.org/obo/GO_0060964	regulation of miRNA-mediated gene silencing	http://purl.obolibrary.org/obo/GO_0035195	miRNA-mediated gene silencing
 http://purl.obolibrary.org/obo/GO_0014006	regulation of microglia differentiation	http://purl.obolibrary.org/obo/GO_0014004	microglia differentiation
@@ -2072,7 +2061,7 @@ http://purl.obolibrary.org/obo/GO_1905405	regulation of mitotic cohesin loading	
 http://purl.obolibrary.org/obo/GO_0106111	regulation of mitotic cohesin ssDNA (lagging strand) loading	http://purl.obolibrary.org/obo/GO_0062022	mitotic cohesin ssDNA (lagging strand) loading
 http://purl.obolibrary.org/obo/GO_1905410	regulation of mitotic cohesin unloading	http://purl.obolibrary.org/obo/GO_0061781	mitotic cohesin unloading
 http://purl.obolibrary.org/obo/GO_1902412	regulation of mitotic cytokinesis	http://purl.obolibrary.org/obo/GO_0000281	mitotic cytokinesis
-http://purl.obolibrary.org/obo/GO_1902472	regulation of mitotic cytokinesis, site selection	http://purl.obolibrary.org/obo/GO_1902408	mitotic cytokinesis, site selection
+http://purl.obolibrary.org/obo/GO_1902472	regulation of mitotic cytokinesis, division site positioning	http://purl.obolibrary.org/obo/GO_1902408	mitotic cytokinesis, division site positioning
 http://purl.obolibrary.org/obo/GO_1903436	regulation of mitotic cytokinetic process	http://purl.obolibrary.org/obo/GO_1902410	mitotic cytokinetic process
 http://purl.obolibrary.org/obo/GO_0140279	regulation of mitotic division septum assembly	http://purl.obolibrary.org/obo/GO_0140278	mitotic division septum assembly
 http://purl.obolibrary.org/obo/GO_0030071	regulation of mitotic metaphase/anaphase transition	http://purl.obolibrary.org/obo/GO_0007091	metaphase/anaphase transition of mitotic cell cycle
@@ -2328,7 +2317,6 @@ http://purl.obolibrary.org/obo/GO_0090289	regulation of osteoclast proliferation
 http://purl.obolibrary.org/obo/GO_1904118	regulation of otic vesicle morphogenesis	http://purl.obolibrary.org/obo/GO_0071600	otic vesicle morphogenesis
 http://purl.obolibrary.org/obo/GO_1905585	regulation of outer hair cell apoptotic process	http://purl.obolibrary.org/obo/GO_1905584	outer hair cell apoptotic process
 http://purl.obolibrary.org/obo/GO_2000354	regulation of ovarian follicle development	http://purl.obolibrary.org/obo/GO_0001541	ovarian follicle development
-http://purl.obolibrary.org/obo/GO_0046662	regulation of oviposition	http://purl.obolibrary.org/obo/GO_0018991	oviposition
 http://purl.obolibrary.org/obo/GO_0060278	regulation of ovulation	http://purl.obolibrary.org/obo/GO_0030728	ovulation
 http://purl.obolibrary.org/obo/GO_0002082	regulation of oxidative phosphorylation	http://purl.obolibrary.org/obo/GO_0006119	oxidative phosphorylation
 http://purl.obolibrary.org/obo/GO_2000275	regulation of oxidative phosphorylation uncoupler activity	http://purl.obolibrary.org/obo/GO_0017077	oxidative phosphorylation uncoupler activity
@@ -2439,8 +2427,6 @@ http://purl.obolibrary.org/obo/GO_0070297	regulation of phosphorelay signal tran
 http://purl.obolibrary.org/obo/GO_0051174	regulation of phosphorus metabolic process	http://purl.obolibrary.org/obo/GO_0006793	phosphorus metabolic process
 http://purl.obolibrary.org/obo/GO_0006795	regulation of phosphorus utilization	http://purl.obolibrary.org/obo/GO_0006794	phosphorus utilization
 http://purl.obolibrary.org/obo/GO_0042325	regulation of phosphorylation	http://purl.obolibrary.org/obo/GO_0016310	phosphorylation
-http://purl.obolibrary.org/obo/GO_1901407	regulation of phosphorylation of RNA polymerase II C-terminal domain	http://purl.obolibrary.org/obo/GO_0070816	phosphorylation of RNA polymerase II C-terminal domain
-http://purl.obolibrary.org/obo/GO_2001163	regulation of phosphorylation of RNA polymerase II C-terminal domain serine 2 residues	http://purl.obolibrary.org/obo/GO_0071619	phosphorylation of RNA polymerase II C-terminal domain serine 2 residues
 http://purl.obolibrary.org/obo/GO_0010099	regulation of photomorphogenesis	http://purl.obolibrary.org/obo/GO_0009640	photomorphogenesis
 http://purl.obolibrary.org/obo/GO_2000028	regulation of photoperiodism, flowering	http://purl.obolibrary.org/obo/GO_0048573	photoperiodism, flowering
 http://purl.obolibrary.org/obo/GO_2000289	regulation of photoreceptor cell axon guidance	http://purl.obolibrary.org/obo/GO_0072499	photoreceptor cell axon guidance
@@ -2504,7 +2490,7 @@ http://purl.obolibrary.org/obo/GO_0010967	regulation of polyamine biosynthetic p
 http://purl.obolibrary.org/obo/GO_1902267	regulation of polyamine transmembrane transport	http://purl.obolibrary.org/obo/GO_1902047	polyamine transmembrane transport
 http://purl.obolibrary.org/obo/GO_1900732	regulation of polyketide biosynthetic process	http://purl.obolibrary.org/obo/GO_0030639	polyketide biosynthetic process
 http://purl.obolibrary.org/obo/GO_1901968	regulation of polynucleotide 3'-phosphatase activity	http://purl.obolibrary.org/obo/GO_0046403	polynucleotide 3'-phosphatase activity
-http://purl.obolibrary.org/obo/GO_1904245	regulation of polynucleotide adenylyltransferase activity	http://purl.obolibrary.org/obo/GO_0004652	polynucleotide adenylyltransferase activity
+http://purl.obolibrary.org/obo/GO_1904245	regulation of polynucleotide adenylyltransferase activity	http://purl.obolibrary.org/obo/GO_1990817	poly(A) RNA polymerase activity
 http://purl.obolibrary.org/obo/GO_0032885	regulation of polysaccharide biosynthetic process	http://purl.obolibrary.org/obo/GO_0000271	polysaccharide biosynthetic process
 http://purl.obolibrary.org/obo/GO_0032881	regulation of polysaccharide metabolic process	http://purl.obolibrary.org/obo/GO_0005976	polysaccharide metabolic process
 http://purl.obolibrary.org/obo/GO_1905696	regulation of polysome binding	http://purl.obolibrary.org/obo/GO_1905538	polysome binding
@@ -2513,7 +2499,7 @@ http://purl.obolibrary.org/obo/GO_1902232	regulation of positive thymic T cell s
 http://purl.obolibrary.org/obo/GO_0048580	regulation of post-embryonic development	http://purl.obolibrary.org/obo/GO_0009791	post-embryonic development
 http://purl.obolibrary.org/obo/GO_2000069	regulation of post-embryonic root development	http://purl.obolibrary.org/obo/GO_0048528	post-embryonic root development
 http://purl.obolibrary.org/obo/GO_0060147	regulation of post-transcriptional gene silencing	http://purl.obolibrary.org/obo/GO_0016441	post-transcriptional gene silencing
-http://purl.obolibrary.org/obo/GO_1900368	regulation of post-transcriptional gene silencing by RNA	http://purl.obolibrary.org/obo/GO_0035194	RNA-mediated post-transcriptional gene silencing
+http://purl.obolibrary.org/obo/GO_1900368	regulation of post-transcriptional gene silencing by RNA	http://purl.obolibrary.org/obo/GO_0035194	ncRNA-mediated post-transcriptional gene silencing
 http://purl.obolibrary.org/obo/GO_1901873	regulation of post-translational protein modification	http://purl.obolibrary.org/obo/GO_0043687	post-translational protein modification
 http://purl.obolibrary.org/obo/GO_0120235	regulation of post-translational protein targeting to membrane, translocation	http://purl.obolibrary.org/obo/GO_0031204	post-translational protein targeting to membrane, translocation
 http://purl.obolibrary.org/obo/GO_0150052	regulation of postsynapse assembly	http://purl.obolibrary.org/obo/GO_0099068	postsynapse assembly
@@ -2550,7 +2536,6 @@ http://purl.obolibrary.org/obo/GO_2000973	regulation of pro-B cell differentiati
 http://purl.obolibrary.org/obo/GO_2000174	regulation of pro-T cell differentiation	http://purl.obolibrary.org/obo/GO_0002572	pro-T cell differentiation
 http://purl.obolibrary.org/obo/GO_2000029	regulation of proanthocyanidin biosynthetic process	http://purl.obolibrary.org/obo/GO_0010023	proanthocyanidin biosynthetic process
 http://purl.obolibrary.org/obo/GO_0002700	regulation of production of molecular mediator of immune response	http://purl.obolibrary.org/obo/GO_0002440	production of molecular mediator of immune response
-http://purl.obolibrary.org/obo/GO_0070920	regulation of production of small RNA involved in gene silencing by RNA	http://purl.obolibrary.org/obo/GO_0070918	regulatory ncRNA processing
 http://purl.obolibrary.org/obo/GO_2000182	regulation of progesterone biosynthetic process	http://purl.obolibrary.org/obo/GO_0006701	progesterone biosynthetic process
 http://purl.obolibrary.org/obo/GO_2000870	regulation of progesterone secretion	http://purl.obolibrary.org/obo/GO_0042701	progesterone secretion
 http://purl.obolibrary.org/obo/GO_0043067	regulation of programmed cell death	http://purl.obolibrary.org/obo/GO_0012501	programmed cell death
@@ -2745,6 +2730,7 @@ http://purl.obolibrary.org/obo/GO_0099158	regulation of recycling endosome local
 http://purl.obolibrary.org/obo/GO_0090227	regulation of red or far-red light signaling pathway	http://purl.obolibrary.org/obo/GO_0010017	red or far-red light signaling pathway
 http://purl.obolibrary.org/obo/GO_1903305	regulation of regulated secretory pathway	http://purl.obolibrary.org/obo/GO_0045055	regulated exocytosis
 http://purl.obolibrary.org/obo/GO_0045589	regulation of regulatory T cell differentiation	http://purl.obolibrary.org/obo/GO_0045066	regulatory T cell differentiation
+http://purl.obolibrary.org/obo/GO_0070920	regulation of regulatory ncRNA processing	http://purl.obolibrary.org/obo/GO_0070918	regulatory ncRNA processing
 http://purl.obolibrary.org/obo/GO_1901897	regulation of relaxation of cardiac muscle	http://purl.obolibrary.org/obo/GO_0055119	relaxation of cardiac muscle
 http://purl.obolibrary.org/obo/GO_1901077	regulation of relaxation of muscle	http://purl.obolibrary.org/obo/GO_0090075	relaxation of muscle
 http://purl.obolibrary.org/obo/GO_1901080	regulation of relaxation of smooth muscle	http://purl.obolibrary.org/obo/GO_0044557	relaxation of smooth muscle
@@ -2768,7 +2754,6 @@ http://purl.obolibrary.org/obo/GO_0060264	regulation of respiratory burst involv
 http://purl.obolibrary.org/obo/GO_0043576	regulation of respiratory gaseous exchange	http://purl.obolibrary.org/obo/GO_0007585	respiratory gaseous exchange by respiratory system
 http://purl.obolibrary.org/obo/GO_0044065	regulation of respiratory system process	http://purl.obolibrary.org/obo/GO_0003016	respiratory system process
 http://purl.obolibrary.org/obo/GO_1902153	regulation of response to DNA damage checkpoint signaling	http://purl.obolibrary.org/obo/GO_0072423	response to DNA damage checkpoint signaling
-http://purl.obolibrary.org/obo/GO_2001020	regulation of response to DNA damage stimulus	http://purl.obolibrary.org/obo/GO_0006974	cellular response to DNA damage stimulus
 http://purl.obolibrary.org/obo/GO_1902151	regulation of response to DNA integrity checkpoint signaling	http://purl.obolibrary.org/obo/GO_0072402	response to DNA integrity checkpoint signaling
 http://purl.obolibrary.org/obo/GO_1902155	regulation of response to G1 DNA damage checkpoint signaling	http://purl.obolibrary.org/obo/GO_0072432	response to G1 DNA damage checkpoint signaling
 http://purl.obolibrary.org/obo/GO_1902157	regulation of response to G2 DNA damage checkpoint signaling	http://purl.obolibrary.org/obo/GO_0072426	response to G2 DNA damage checkpoint signaling
@@ -2830,7 +2815,7 @@ http://purl.obolibrary.org/obo/GO_1903062	regulation of reverse cholesterol tran
 http://purl.obolibrary.org/obo/GO_1900268	regulation of reverse transcription	http://purl.obolibrary.org/obo/GO_0001171	reverse transcription
 http://purl.obolibrary.org/obo/GO_0043463	regulation of rhamnose catabolic process	http://purl.obolibrary.org/obo/GO_0019301	rhamnose catabolic process
 http://purl.obolibrary.org/obo/GO_0022400	regulation of rhodopsin mediated signaling pathway	http://purl.obolibrary.org/obo/GO_0016056	rhodopsin mediated signaling pathway
-http://purl.obolibrary.org/obo/GO_0060700	regulation of ribonuclease activity	http://purl.obolibrary.org/obo/GO_0004540	ribonuclease activity
+http://purl.obolibrary.org/obo/GO_0060700	regulation of ribonuclease activity	http://purl.obolibrary.org/obo/GO_0004540	RNA nuclease activity
 http://purl.obolibrary.org/obo/GO_2000197	regulation of ribonucleoprotein complex localization	http://purl.obolibrary.org/obo/GO_0071166	ribonucleoprotein complex localization
 http://purl.obolibrary.org/obo/GO_1905117	regulation of ribonucleoside-diphosphate reductase activity	http://purl.obolibrary.org/obo/GO_0061731	ribonucleoside-diphosphate reductase activity
 http://purl.obolibrary.org/obo/GO_2000203	regulation of ribosomal large subunit export from nucleus	http://purl.obolibrary.org/obo/GO_0000055	ribosomal large subunit export from nucleus
@@ -2904,7 +2889,7 @@ http://purl.obolibrary.org/obo/GO_0048831	regulation of shoot system development
 http://purl.obolibrary.org/obo/GO_1900618	regulation of shoot system morphogenesis	http://purl.obolibrary.org/obo/GO_0010016	shoot system morphogenesis
 http://purl.obolibrary.org/obo/GO_0048587	regulation of short-day photoperiodism, flowering	http://purl.obolibrary.org/obo/GO_0048575	short-day photoperiodism, flowering
 http://purl.obolibrary.org/obo/GO_1905512	regulation of short-term synaptic potentiation	http://purl.obolibrary.org/obo/GO_1990926	short-term synaptic potentiation
-http://purl.obolibrary.org/obo/GO_0070921	regulation of siRNA production	http://purl.obolibrary.org/obo/GO_0030422	siRNA processing
+http://purl.obolibrary.org/obo/GO_0070921	regulation of siRNA processing	http://purl.obolibrary.org/obo/GO_0030422	siRNA processing
 http://purl.obolibrary.org/obo/GO_1902802	regulation of siRNA-dependent facultative heterochromatin formation	http://purl.obolibrary.org/obo/GO_1902795	siRNA-mediated facultative heterochromatin formation
 http://purl.obolibrary.org/obo/GO_1902801	regulation of siRNA-independent facultative heterochromatin formation	http://purl.obolibrary.org/obo/GO_1902794	siRNA-independent facultative heterochromatin formation
 http://purl.obolibrary.org/obo/GO_1900704	regulation of siderophore biosynthetic process	http://purl.obolibrary.org/obo/GO_0019290	siderophore biosynthetic process
@@ -2942,7 +2927,7 @@ http://purl.obolibrary.org/obo/GO_0051056	regulation of small GTPase mediated si
 http://purl.obolibrary.org/obo/GO_0120057	regulation of small intestinal transit	http://purl.obolibrary.org/obo/GO_0120055	small intestinal transit
 http://purl.obolibrary.org/obo/GO_1904347	regulation of small intestine smooth muscle contraction	http://purl.obolibrary.org/obo/GO_1990770	small intestine smooth muscle contraction
 http://purl.obolibrary.org/obo/GO_0062012	regulation of small molecule metabolic process	http://purl.obolibrary.org/obo/GO_0044281	small molecule metabolic process
-http://purl.obolibrary.org/obo/GO_0010964	regulation of small non-coding RNA-mediated heterochromatin formation	http://purl.obolibrary.org/obo/GO_0031048	RNA-mediated heterochromatin formation
+http://purl.obolibrary.org/obo/GO_0010964	regulation of small non-coding RNA-mediated heterochromatin formation	http://purl.obolibrary.org/obo/GO_0031048	small ncRNA-mediated heterochromatin formation
 http://purl.obolibrary.org/obo/GO_0034391	regulation of smooth muscle cell apoptotic process	http://purl.obolibrary.org/obo/GO_0034390	smooth muscle cell apoptotic process
 http://purl.obolibrary.org/obo/GO_0071671	regulation of smooth muscle cell chemotaxis	http://purl.obolibrary.org/obo/GO_0071670	smooth muscle cell chemotaxis
 http://purl.obolibrary.org/obo/GO_0051150	regulation of smooth muscle cell differentiation	http://purl.obolibrary.org/obo/GO_0051145	smooth muscle cell differentiation
@@ -3013,7 +2998,6 @@ http://purl.obolibrary.org/obo/GO_2000831	regulation of steroid hormone secretio
 http://purl.obolibrary.org/obo/GO_0019218	regulation of steroid metabolic process	http://purl.obolibrary.org/obo/GO_0008202	steroid metabolic process
 http://purl.obolibrary.org/obo/GO_0106118	regulation of sterol biosynthetic process	http://purl.obolibrary.org/obo/GO_0016126	sterol biosynthetic process
 http://purl.obolibrary.org/obo/GO_2000909	regulation of sterol import	http://purl.obolibrary.org/obo/GO_0035376	sterol import
-http://purl.obolibrary.org/obo/GO_1901308	regulation of sterol regulatory element binding protein cleavage	http://purl.obolibrary.org/obo/GO_0035103	sterol regulatory element binding protein cleavage
 http://purl.obolibrary.org/obo/GO_0032371	regulation of sterol transport	http://purl.obolibrary.org/obo/GO_0015918	sterol transport
 http://purl.obolibrary.org/obo/GO_0120068	regulation of stomach fundus smooth muscle contraction	http://purl.obolibrary.org/obo/GO_0014825	stomach fundus smooth muscle contraction
 http://purl.obolibrary.org/obo/GO_0061105	regulation of stomach neuroendocrine cell differentiation	http://purl.obolibrary.org/obo/GO_0061102	stomach neuroendocrine cell differentiation
@@ -3224,8 +3208,6 @@ http://purl.obolibrary.org/obo/GO_0051049	regulation of transport	http://purl.ob
 http://purl.obolibrary.org/obo/GO_0150200	regulation of transport across blood-brain barrier	http://purl.obolibrary.org/obo/GO_0150104	transport across blood-brain barrier
 http://purl.obolibrary.org/obo/GO_0032409	regulation of transporter activity	http://purl.obolibrary.org/obo/GO_0005215	transporter activity
 http://purl.obolibrary.org/obo/GO_0010528	regulation of transposition	http://purl.obolibrary.org/obo/GO_0032196	transposition
-http://purl.obolibrary.org/obo/GO_0000337	regulation of transposition, DNA-mediated	http://purl.obolibrary.org/obo/GO_0006313	transposition, DNA-mediated
-http://purl.obolibrary.org/obo/GO_0010525	regulation of transposition, RNA-mediated	http://purl.obolibrary.org/obo/GO_0032197	transposition, RNA-mediated
 http://purl.obolibrary.org/obo/GO_0090062	regulation of trehalose metabolic process	http://purl.obolibrary.org/obo/GO_0005991	trehalose metabolic process
 http://purl.obolibrary.org/obo/GO_0010061	regulation of trichoblast fate specification	http://purl.obolibrary.org/obo/GO_0010057	trichoblast fate specification
 http://purl.obolibrary.org/obo/GO_2000039	regulation of trichome morphogenesis	http://purl.obolibrary.org/obo/GO_0010090	trichome morphogenesis
