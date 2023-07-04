@@ -1988,7 +1988,6 @@ http://purl.obolibrary.org/obo/GO_0120272	positive regulation of nuclear-transcr
 http://purl.obolibrary.org/obo/GO_2000624	positive regulation of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	http://purl.obolibrary.org/obo/GO_0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
 http://purl.obolibrary.org/obo/GO_0060213	positive regulation of nuclear-transcribed mRNA poly(A) tail shortening	http://purl.obolibrary.org/obo/GO_0000289	nuclear-transcribed mRNA poly(A) tail shortening
 http://purl.obolibrary.org/obo/GO_0032075	positive regulation of nuclease activity	http://purl.obolibrary.org/obo/GO_0004518	nuclease activity
-http://purl.obolibrary.org/obo/GO_1903508	positive regulation of nucleic acid-templated transcription	http://purl.obolibrary.org/obo/GO_0097659	nucleic acid-templated transcription
 http://purl.obolibrary.org/obo/GO_0045935	positive regulation of nucleobase-containing compound metabolic process	http://purl.obolibrary.org/obo/GO_0006139	nucleobase-containing compound metabolic process
 http://purl.obolibrary.org/obo/GO_0032241	positive regulation of nucleobase-containing compound transport	http://purl.obolibrary.org/obo/GO_0015931	nucleobase-containing compound transport
 http://purl.obolibrary.org/obo/GO_0046824	positive regulation of nucleocytoplasmic transport	http://purl.obolibrary.org/obo/GO_0006913	nucleocytoplasmic transport
@@ -2798,7 +2797,6 @@ http://purl.obolibrary.org/obo/GO_0051971	positive regulation of transmission of
 http://purl.obolibrary.org/obo/GO_0051050	positive regulation of transport	http://purl.obolibrary.org/obo/GO_0006810	transport
 http://purl.obolibrary.org/obo/GO_0150201	positive regulation of transport across blood-brain barrier	http://purl.obolibrary.org/obo/GO_0150104	transport across blood-brain barrier
 http://purl.obolibrary.org/obo/GO_0032411	positive regulation of transporter activity	http://purl.obolibrary.org/obo/GO_0005215	transporter activity
-http://purl.obolibrary.org/obo/GO_0010530	positive regulation of transposition	http://purl.obolibrary.org/obo/GO_0032196	transposition
 http://purl.obolibrary.org/obo/GO_1901319	positive regulation of trehalose catabolic process	http://purl.obolibrary.org/obo/GO_0005993	trehalose catabolic process
 http://purl.obolibrary.org/obo/GO_0010063	positive regulation of trichoblast fate specification	http://purl.obolibrary.org/obo/GO_0010057	trichoblast fate specification
 http://purl.obolibrary.org/obo/GO_1900886	positive regulation of tridecane biosynthetic process	http://purl.obolibrary.org/obo/GO_1900632	tridecane biosynthetic process
