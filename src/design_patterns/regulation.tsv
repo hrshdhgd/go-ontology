@@ -2255,7 +2255,6 @@ http://purl.obolibrary.org/obo/GO_0120270	regulation of nuclear-transcribed mRNA
 http://purl.obolibrary.org/obo/GO_2000622	regulation of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	http://purl.obolibrary.org/obo/GO_0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
 http://purl.obolibrary.org/obo/GO_0060211	regulation of nuclear-transcribed mRNA poly(A) tail shortening	http://purl.obolibrary.org/obo/GO_0000289	nuclear-transcribed mRNA poly(A) tail shortening
 http://purl.obolibrary.org/obo/GO_0032069	regulation of nuclease activity	http://purl.obolibrary.org/obo/GO_0004518	nuclease activity
-http://purl.obolibrary.org/obo/GO_1903506	regulation of nucleic acid-templated transcription	http://purl.obolibrary.org/obo/GO_0097659	nucleic acid-templated transcription
 http://purl.obolibrary.org/obo/GO_0019219	regulation of nucleobase-containing compound metabolic process	http://purl.obolibrary.org/obo/GO_0006139	nucleobase-containing compound metabolic process
 http://purl.obolibrary.org/obo/GO_0032239	regulation of nucleobase-containing compound transport	http://purl.obolibrary.org/obo/GO_0015931	nucleobase-containing compound transport
 http://purl.obolibrary.org/obo/GO_0046822	regulation of nucleocytoplasmic transport	http://purl.obolibrary.org/obo/GO_0006913	nucleocytoplasmic transport
@@ -3207,7 +3206,6 @@ http://purl.obolibrary.org/obo/GO_0051969	regulation of transmission of nerve im
 http://purl.obolibrary.org/obo/GO_0051049	regulation of transport	http://purl.obolibrary.org/obo/GO_0006810	transport
 http://purl.obolibrary.org/obo/GO_0150200	regulation of transport across blood-brain barrier	http://purl.obolibrary.org/obo/GO_0150104	transport across blood-brain barrier
 http://purl.obolibrary.org/obo/GO_0032409	regulation of transporter activity	http://purl.obolibrary.org/obo/GO_0005215	transporter activity
-http://purl.obolibrary.org/obo/GO_0010528	regulation of transposition	http://purl.obolibrary.org/obo/GO_0032196	transposition
 http://purl.obolibrary.org/obo/GO_0090062	regulation of trehalose metabolic process	http://purl.obolibrary.org/obo/GO_0005991	trehalose metabolic process
 http://purl.obolibrary.org/obo/GO_0010061	regulation of trichoblast fate specification	http://purl.obolibrary.org/obo/GO_0010057	trichoblast fate specification
 http://purl.obolibrary.org/obo/GO_2000039	regulation of trichome morphogenesis	http://purl.obolibrary.org/obo/GO_0010090	trichome morphogenesis
