@@ -324,6 +324,7 @@ http://purl.obolibrary.org/obo/GO_0042425	choline biosynthetic process	http://pu
 http://purl.obolibrary.org/obo/GO_0030206	chondroitin sulfate biosynthetic process	http://purl.obolibrary.org/obo/CHEBI_37397	chondroitin sulfate
 http://purl.obolibrary.org/obo/GO_0009423	chorismate biosynthetic process	http://purl.obolibrary.org/obo/CHEBI_29748	chorismate(2-)
 http://purl.obolibrary.org/obo/GO_0042858	chrysobactin biosynthetic process	http://purl.obolibrary.org/obo/CHEBI_61345	chrysobactin
+http://purl.obolibrary.org/obo/GO_0062032	cichorine biosynthetic process	http://purl.obolibrary.org/obo/CHEBI_64977	cichorine
 http://purl.obolibrary.org/obo/GO_0009800	cinnamic acid biosynthetic process	http://purl.obolibrary.org/obo/CHEBI_23248	cinnamate
 http://purl.obolibrary.org/obo/GO_0009802	cinnamic acid ester biosynthetic process	http://purl.obolibrary.org/obo/CHEBI_36087	cinnamate ester
 http://purl.obolibrary.org/obo/GO_1902246	cis-abienol biosynthetic process	http://purl.obolibrary.org/obo/CHEBI_68624	cis-abienol
@@ -720,7 +721,6 @@ http://purl.obolibrary.org/obo/GO_0010264	myo-inositol hexakisphosphate biosynth
 http://purl.obolibrary.org/obo/GO_1900787	naphtho-gamma-pyrone biosynthetic process	http://purl.obolibrary.org/obo/CHEBI_64542	naphtho-gamma-pyrone
 http://purl.obolibrary.org/obo/GO_1901158	neomycin biosynthetic process	http://purl.obolibrary.org/obo/CHEBI_7507	neomycin
 http://purl.obolibrary.org/obo/GO_1902050	neosartoricin biosynthetic process	http://purl.obolibrary.org/obo/CHEBI_72750	neosartoricin
-http://purl.obolibrary.org/obo/GO_0042136	neurotransmitter biosynthetic process	http://purl.obolibrary.org/obo/GOCHE_25512	substance with neurotransmitter role
 http://purl.obolibrary.org/obo/GO_0030418	nicotianamine biosynthetic process	http://purl.obolibrary.org/obo/CHEBI_58249	(S,S,S)-nicotianamine trizwitterion
 http://purl.obolibrary.org/obo/GO_0019359	nicotinamide nucleotide biosynthetic process	http://purl.obolibrary.org/obo/CHEBI_25527	nicotinamide nucleotide
 http://purl.obolibrary.org/obo/GO_0071590	nicotinamide riboside biosynthetic process	http://purl.obolibrary.org/obo/CHEBI_15927	N-ribosylnicotinamide
